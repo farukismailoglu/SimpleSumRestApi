@@ -6,7 +6,7 @@ Simple Sum service and call soap service.
 
 ## Run Project ##
 
-node app.mjs  <port>
+node app.mjs port
 
 note : default port  5000
 
